@@ -31,3 +31,10 @@ header,footer{
   background-color: teal;
   border: 5px solid gold;
 }
+#dos div{
+  height: 156.5px;
+  width: 49.55%;
+  background-color: silver;
+  border: 1px solid gold;
+  float: left;
+}
